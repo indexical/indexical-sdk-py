@@ -18,7 +18,7 @@ In Python projects:
 ## Installation
 
 ```bash
-pip install indexical_sdk
+pip install indexical-sdk
 ```
 
 ## Usage
